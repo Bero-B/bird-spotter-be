@@ -1,24 +1,22 @@
 module.exports = [
   {
-    username: 'butter_bridge',
-    name: 'jonny',
-    avatar_url:
-      'https://www.healthytherapies.com/wp-content/uploads/2016/06/Lime3.jpg'
+    username: 'user1',
+    email: 'user1@example.com',
+    points: 0
   },
   {
-    username: 'icellusedkars',
-    name: 'sam',
-    avatar_url: 'https://avatars2.githubusercontent.com/u/24604688?s=460&v=4'
+    username: 'user2',
+    email: 'user2@example.com',
+    points: 0
   },
   {
-    username: 'rogersop',
-    name: 'paul',
-    avatar_url: 'https://avatars2.githubusercontent.com/u/24394918?s=400&v=4'
+    username: 'user3',
+    email: 'user3@example.com',
+    points: 0
   },
   {
-    username: 'lurker',
-    name: 'do_nothing',
-    avatar_url:
-      'https://www.golenbock.com/wp-content/uploads/2015/01/placeholder-user.png'
+    username: 'user4',
+    email: 'user4@example.com',
+    points: 0
   }
-];
+]

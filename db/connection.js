@@ -5,6 +5,7 @@ require('dotenv').config({
   path: `${__dirname}/../.env.${ENV}`,
 });
 
+console.log(`ENV is: ${ENV}`)
 if (!process.env.PGDATABASE) {
   throw new Error('PGDATABASE not set');
 }

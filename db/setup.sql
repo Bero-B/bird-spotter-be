@@ -1,5 +1,5 @@
-DROP DATABASE IF EXISTS nc_news_test;
-DROP DATABASE IF EXISTS nc_news;
+DROP DATABASE IF EXISTS bird_spotter_test;
+DROP DATABASE IF EXISTS bird_spotter;
 
-CREATE DATABASE nc_news_test;
-CREATE DATABASE nc_news;
+CREATE DATABASE bird_spotter_test;
+CREATE DATABASE bird_spotter;
